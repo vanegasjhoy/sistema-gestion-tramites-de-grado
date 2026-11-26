@@ -4,16 +4,6 @@ Aplicación web para gestionar el trámite de grado de los estudiantes: registro
 
 > Proyecto académico de Ingeniería de Software. Equipo: **[Jhonatan Vanegas]**, 
 
-## Capturas
-
-| Inicio de sesión | Panel del estudiante |
-|---|---|
-| ![Login](docs/img/login.png) | ![Estudiante](docs/img/est_tramite.png) |
-
-| Detalle de un trámite (coordinación) | Gestión de usuarios (administrador) |
-|---|---|
-| ![Coordinación](docs/img/coo_detalle.png) | ![Administrador](docs/img/adm_usuarios.png) |
-
 ## Qué hace
 
 - **Estudiante:** crea su cuenta, registra su trámite de grado, entrega los documentos requeridos y consulta el estado de su pago, paz y salvo y ceremonia.
