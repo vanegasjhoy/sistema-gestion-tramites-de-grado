@@ -2,7 +2,7 @@
 
 Aplicación web para gestionar el trámite de grado de los estudiantes: registro del trámite, entrega de documentos, pago, paz y salvo, asignación a ceremonias y reportes. Tiene tres roles (estudiante, coordinación y administrador) con permisos distintos.
 
-> Proyecto académico de Ingeniería de Software. Equipo: **[Jhonatan Vanegas]**, 
+ 
 
 ## Qué hace
 
